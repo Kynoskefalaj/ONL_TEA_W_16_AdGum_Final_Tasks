@@ -19,7 +19,7 @@ Feature: MyStore complete purchase procedure
 
     |item name                     |quantity|size|discount|alias          |delivery  |payment         |
     |Hummingbird Printed Sweater   |9       |M   |20      |Lord Commander |My carrier|Pay by bank wire|
-#    |Brown Bear Cushion            |10      |    |0       |The Crow       |My carrier|Pay by Check    |
-#    |Mug The Adventure Begins      |15      |    |0       |Lord Snow      |PrestaShop|Pay by bank wire|
-#    |Mountain Fox Notebook         |7       |    |0       |The Outcast    |PrestaShop|Pay by bank wire|
-#    |Hummingbird Printed T-Shirt   |11      |S   |20      |The Last Dragon|PrestaShop|Pay by bank wire|
+    |Brown Bear Cushion            |10      |    |0       |The Crow       |My carrier|Pay by Check    |
+    |Mug The Adventure Begins      |15      |    |0       |Lord Snow      |PrestaShop|Pay by bank wire|
+    |Mountain Fox Notebook         |7       |    |0       |The Outcast    |PrestaShop|Pay by bank wire|
+    |Hummingbird Printed T-Shirt   |11      |S   |20      |The Last Dragon|PrestaShop|Pay by bank wire|
